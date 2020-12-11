@@ -10,7 +10,6 @@ import UIKit
 class ViewController: UIViewController {
 
 
-    
     @IBOutlet weak var BillAmountTextField: UITextField!
     
     @IBOutlet weak var TipPrice: UILabel!
